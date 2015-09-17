@@ -1,4 +1,8 @@
 #ignored file list will come here
 .classpath
 .project
+/target/
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+.settings/
 README.md
